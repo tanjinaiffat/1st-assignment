@@ -1,0 +1,16 @@
+/*header*/
+.header{
+    background-color:#E55473 ;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+}
+.btn-peimary{
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700px;
+    padding: 15px 35px;
+}
